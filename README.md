@@ -6,3 +6,21 @@
 - Mechanics: 机械结构
 - Render: 渲染
 - Simulation: Matlan仿真
+
+## 参考项目
+
+- [Simple FOC](https://github.com/simplefoc/Arduino-FOC)
+- [Ctrl-FOC-Lite](https://github.com/peng-zhihui/Ctrl-FOC-Lite)
+- TIDA-00827
+
+## 芯片选型
+
+- MCU: stm32f103cbt6
+- Current sense: ina199a1
+- driver: drv8313
+- uart: ch340n
+- can: tja1050
+- lcd: [中景园0.96寸IPS LCD st7735s 160x80](https://item.taobao.com/item.htm?id=563261295211)
+- DC/DC: tps54202
+- LDO: LM1117-3.3
+
