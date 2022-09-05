@@ -4,3 +4,6 @@
 [submodule "Reference/Ctrl-FOC-Lite"]
 	path = Reference/Ctrl-FOC-Lite
 	url = https://github.com/peng-zhihui/Ctrl-FOC-Lite.git
+[submodule "Software/FOC_Driver"]
+	path = Software/FOC_Driver
+	url = https://github.com/Aiano/FOC_Driver.git
