@@ -1,0 +1,6 @@
+[submodule "Reference/Arduino-FOC"]
+	path = Reference/Arduino-FOC
+	url = https://github.com/simplefoc/Arduino-FOC.git
+[submodule "Reference/Ctrl-FOC-Lite"]
+	path = Reference/Ctrl-FOC-Lite
+	url = https://github.com/peng-zhihui/Ctrl-FOC-Lite.git
