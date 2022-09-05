@@ -1,4 +1,5 @@
-# A FOC Driver
+# FOC
+A BLDC motor driver using FOC algorithm.
 ## 仓库结构
 - Reference: 用于参考的其它开源项目
 - Software: 软件
