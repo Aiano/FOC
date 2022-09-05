@@ -1,0 +1,3 @@
+D:/FOC/Software/FOC_Driver/cmake-build-debug-mingw-stm32/CMakeFiles/FOC_Driver.elf.dir
+D:/FOC/Software/FOC_Driver/cmake-build-debug-mingw-stm32/CMakeFiles/edit_cache.dir
+D:/FOC/Software/FOC_Driver/cmake-build-debug-mingw-stm32/CMakeFiles/rebuild_cache.dir
