@@ -14,7 +14,7 @@ A BLDC motor driver using FOC algorithm.
 - [Ctrl-FOC-Lite](https://github.com/peng-zhihui/Ctrl-FOC-Lite)
 - TIDA-00827
 
-## 芯片选型
+## 器件选型
 
 - MCU: stm32f103cbt6
 - Current sense: ina199a1
