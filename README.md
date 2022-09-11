@@ -25,3 +25,6 @@ A BLDC motor driver using FOC algorithm.
 - DC/DC: tps54202
 - LDO: LM1117-3.3
 
+## 关于如何使用clion进行stm32嵌入式开发
+
+> 稚晖君: https://zhuanlan.zhihu.com/p/478097828
