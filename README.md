@@ -27,4 +27,4 @@ A BLDC motor driver using FOC algorithm.
 
 ## 关于如何使用clion进行stm32嵌入式开发
 
-> 稚晖君: https://zhuanlan.zhihu.com/p/478097828
+> 稚晖君: https://zhuanlan.zhihu.com/p/145801160
